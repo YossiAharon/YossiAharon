@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-My name is Yossi Aharon. I'm a Full Stack Web Developer for more than 15 years and has expertise in WordPress platform.
+My name is Yossi Aharon. I'm a Full Stack Web Developer for more than 15 years and have expertise in WordPress platform.
