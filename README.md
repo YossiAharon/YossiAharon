@@ -9,6 +9,7 @@ Programming languages: PHP, JS, HTML, CSS, jQuery.
 
 ### Links
 - My website: www.Yossi.co.il
-
+- Facebook: https://www.facebook.com/YossiAharon
+- Twitter: https://twitter.com/YossiAharon
 
 
