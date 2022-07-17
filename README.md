@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 - I'm also a musician, singer, keyboardist and virtuoso Greek bouzouki player. 
 - 🌱 Nature lover.
 
-### Links
+### :link: Links
 - My website: www.Yossi.co.il
 - Facebook: https://www.facebook.com/YossiAharon
 - Twitter: https://twitter.com/YossiAharon
