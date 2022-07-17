@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 
 - :computer: Programming languages: PHP, JS, HTML, CSS, jQuery.
 
-## About me
+## :man: About me
 
 - Currently living in Tiberias city in Israel.
 - I'm also a musician, singer, keyboardist and virtuoso Greek bouzouki player. 
