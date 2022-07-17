@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋 I'm Yossi Aharon
 
-My name is Yossi Aharon. I'm a Full Stack Web Developer for more than +15 years and have expertise in WordPress platform.
+I'm a Full Stack Web Developer for more than +15 years and have expertise in WordPress platform.
 
 Programming languages: PHP, JS, HTML, CSS, jQuery.
 
