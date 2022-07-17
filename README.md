@@ -7,7 +7,8 @@ Programming languages: PHP, JS, HTML, CSS, jQuery.
 - I'm currently living in Tiberias city in Israel.
 - 🌱 I’m a nature love. 
 
-My website: www.Yossi.co.il
+### Links
+- My website: www.Yossi.co.il
 
 
 
