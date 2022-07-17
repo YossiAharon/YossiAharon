@@ -4,8 +4,11 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 
 Programming languages: PHP, JS, HTML, CSS, jQuery.
 
-- I'm currently living in Tiberias city in Israel.
-- 🌱 I’m a nature love. 
+## About me
+
+- Currently living in Tiberias city in Israel.
+- I'm also a musician, singer, keyboardist and virtuoso Greek bouzouki player. 
+- 🌱 Nature lover.
 
 ### Links
 - My website: www.Yossi.co.il
