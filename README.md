@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer for more than +15 years and have expertise in WordPress platform.
 
-Programming languages: PHP, JS, HTML, CSS, jQuery.
+- :computer: Programming languages: PHP, JS, HTML, CSS, jQuery.
 
 ## About me
 
