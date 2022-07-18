@@ -17,7 +17,7 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 - Facebook: https://www.facebook.com/YossiAharon
 - Twitter: https://twitter.com/YossiAharon
 
-<h3 align="left">Support me:</h3>
+### Support me:
 <p><a href="https://ko-fi.com/yossiaharon" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yossiaharon" /></a></p>
 <br><br>
 
