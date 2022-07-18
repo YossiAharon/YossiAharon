@@ -18,6 +18,7 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 - Twitter: https://twitter.com/YossiAharon
 
 <h3 align="left">Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/yossiaharon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yossiaharon" /></a><a href="https://ko-fi.com/yossiaharon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yossiaharon" /></a></p><br><br>
+<p><a href="https://ko-fi.com/yossiaharon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yossiaharon" /></a></p>
+<br><br>
 
 
