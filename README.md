@@ -11,6 +11,7 @@ I'm a Full Stack Web Developer for more than +15 years and have expertise in Wor
 - Currently living in Tiberias city in Israel.
 - I'm also a musician, singer, keyboardist and virtuoso Greek bouzouki player. 
 - 🌱 Nature lover.
+- Owner and Founder of <a href="https://www.greek.co.il/" target="_blank">Greek.co.il</a>, the largest website in Israel that deals with Greek tourism, information about Greece and Greek islands.
 
 ### :link: Links
 - My website: www.Yossi.co.il
